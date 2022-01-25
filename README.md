@@ -1,4 +1,4 @@
-### Hi :
+### Hi 🤙
 My name is Robert. I'm web developer from Poland <img src="https://cdn-icons-png.flaticon.com/512/323/323338.png" width="13"/>
 
 <h3>Things I code with:</h3>
