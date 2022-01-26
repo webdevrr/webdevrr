@@ -3,12 +3,12 @@ My name is Robert. I'm web developer from Poland <img src="https://cdn-icons-png
 
 <h3>Things I code with:</h3>
 <p>
-  <img alt="Nodejs" src="https://img.shields.io/badge/-Nodejs-43853d?style=flat-square&logo=Node.js&logoColor=white" />
+  <img alt="Node.js" src="https://img.shields.io/badge/-Node.js-43853d?style=flat-square&logo=Node.js&logoColor=white" />
   <img alt="TypeScript" src="https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white" />
   <img alt="JavaScript" src="https://img.shields.io/badge/-JavaScript-F7E018?style=flat-square&logo=javascript&logoColor=black" />
   <img alt="React" src="https://img.shields.io/badge/-React-45b8d8?style=flat-square&logo=react&logoColor=white" />
   <img alt="Python" src="https://img.shields.io/badge/-Python-FFCE3D?style=flat-square&logo=Python&logoColor=black" />
-  <img alt="ExpressJS" src="https://img.shields.io/badge/-ExpressJS-F7F7F7?style=flat-square&logo=express&logoColor=black" />
+  <img alt="Express" src="https://img.shields.io/badge/-Express-F7F7F7?style=flat-square&logo=express&logoColor=black" />
   <img alt="Jest" src="https://img.shields.io/badge/-Jest-97747e?style=flat-square&logo=jest&logoColor=white" />
   <img alt="Docker" src="https://img.shields.io/badge/-Docker-46a2f1?style=flat-square&logo=docker&logoColor=white" />
   <img alt="redux" src="https://img.shields.io/badge/-Redux-764ABC?style=flat-square&logo=redux&logoColor=white" />
@@ -21,5 +21,12 @@ My name is Robert. I'm web developer from Poland <img src="https://cdn-icons-png
   <img alt="PostgreSQL" src="https://img.shields.io/badge/-PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white" />
   <img alt="Puppeteer" src="https://img.shields.io/badge/-Puppeteer-01D19D?style=flat-square&logo=puppeteer&logoColor=black" />
 </p>
+<h3>Next:</h3>
+<p>
+  <img alt="AWS" src="https://img.shields.io/badge/-AWS-EF931E?style=flat-square&logo=amazonaws&logoColor=white" />
+  <img alt="Prisma" src="https://img.shields.io/badge/-Prisma-0C3249?style=flat-square&logo=prisma&logoColor=white" />
+  <img alt="Prisma" src="https://img.shields.io/badge/-GraphQL-E10098?style=flat-square&logo=graphql&logoColor=white" />
+</p>
+
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=webdevrr&layout=compact&theme=radical)
