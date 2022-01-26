@@ -22,4 +22,4 @@ My name is Robert. I'm web developer from Poland <img src="https://cdn-icons-png
   <img alt="Puppeteer" src="https://img.shields.io/badge/-Puppeteer-01D19D?style=flat-square&logo=puppeteer&logoColor=black" />
 </p>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=webdevrr&layout=compact&theme=radical)]
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=webdevrr&layout=compact&theme=radical)
