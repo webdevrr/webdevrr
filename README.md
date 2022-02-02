@@ -27,6 +27,7 @@ My name is Robert. I'm web developer from Poland <img src="https://cdn-icons-png
   <img alt="Prisma" src="https://img.shields.io/badge/-Prisma-0C3249?style=flat-square&logo=prisma&logoColor=white" />
   <img alt="GraphQL" src="https://img.shields.io/badge/-GraphQL-E10098?style=flat-square&logo=graphql&logoColor=white" />
   <img alt="GitHub Actions" src="https://img.shields.io/badge/-GitHub%20Actions-002F67?style=flat-square&logo=githubactions&logoColor=white" />
+  <img alt="Electron" src="https://img.shields.io/badge/-Electron-2B2E3B?style=flat-square&logo=electron&logoColor=white" />
   
 </p>
 
