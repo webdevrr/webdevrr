@@ -20,6 +20,7 @@ My name is Robert. I'm web developer from Poland <img src="https://cdn-icons-png
   <img alt="MongoDB" src="https://img.shields.io/badge/-MongoDB-13aa52?style=flat-square&logo=mongodb&logoColor=white" />
   <img alt="PostgreSQL" src="https://img.shields.io/badge/-PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white" />
   <img alt="Puppeteer" src="https://img.shields.io/badge/-Puppeteer-01D19D?style=flat-square&logo=puppeteer&logoColor=black" />
+  <img alt="Linux" src="https://img.shields.io/badge/-Linux-01D19D?style=flat-square&logo=puppeteer&logoColor=black" />
 </p>
 <h3>Next:</h3>
 <p>
@@ -28,7 +29,7 @@ My name is Robert. I'm web developer from Poland <img src="https://cdn-icons-png
   <img alt="GraphQL" src="https://img.shields.io/badge/-GraphQL-E10098?style=flat-square&logo=graphql&logoColor=white" />
   <img alt="GitHub Actions" src="https://img.shields.io/badge/-GitHub%20Actions-002F67?style=flat-square&logo=githubactions&logoColor=white" />
   <img alt="Electron" src="https://img.shields.io/badge/-Electron-2B2E3B?style=flat-square&logo=electron&logoColor=white" />
-  
+  <img alt="NestJS" src="https://img.shields.io/badge/-NestJS-D31F4F?style=flat-square&logo=nestjs&logoColor=black" />
 </p>
 
 
