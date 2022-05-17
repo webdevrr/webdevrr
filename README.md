@@ -31,6 +31,3 @@ My name is Robert. I'm web developer from Poland <img src="https://cdn-icons-png
   <img alt="GitHub Actions" src="https://img.shields.io/badge/-GitHub%20Actions-002F67?style=flat-square&logo=githubactions&logoColor=white" />
   <img alt="NestJS" src="https://img.shields.io/badge/-NestJS-D31F4F?style=flat-square&logo=nestjs&logoColor=black" />
 </p>
-
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=webdevrr&layout=compact&theme=radical)
