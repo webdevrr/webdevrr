@@ -22,5 +22,4 @@ My name is Robert. I'm web developer from Poland <img src="https://cdn-icons-png
   <img alt="AWS" src="https://img.shields.io/badge/-AWS-EF931E?style=flat-square&logo=amazonaws&logoColor=black" />
   <img alt="Prisma" src="https://img.shields.io/badge/-Prisma-0C3249?style=flat-square&logo=prisma&logoColor=white" />
 </p>
-<h3>Next:</h3>
 
