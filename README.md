@@ -7,6 +7,7 @@ My name is Robert. I'm web developer from Poland <img src="https://cdn-icons-png
   <img alt="TypeScript" src="https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white" />
   <img alt="JavaScript" src="https://img.shields.io/badge/-JavaScript-F7E018?style=flat-square&logo=javascript&logoColor=black" />
   <img alt="React" src="https://img.shields.io/badge/-React-45b8d8?style=flat-square&logo=react&logoColor=white" />
+  <img alt="Next.js" src="https://img.shields.io/badge/-Next-000000?style=flat-square&logo=nextdotjs&logoColor=white" />
   <img alt="Express" src="https://img.shields.io/badge/-Express-F7F7F7?style=flat-square&logo=express&logoColor=black" />
   <img alt="Jest" src="https://img.shields.io/badge/-Jest-97747e?style=flat-square&logo=jest&logoColor=white" />
   <img alt="Docker" src="https://img.shields.io/badge/-Docker-46a2f1?style=flat-square&logo=docker&logoColor=white" />
